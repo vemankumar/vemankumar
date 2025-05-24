@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Veman Kumar 👋
 
-<!--
-**vemankumar/vemankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Data Science student passionate about machine learning, data analysis, and fraud detection.
 
-Here are some ideas to get you started:
+## Skills
+- Python, Pandas, NumPy
+- Data Visualization (Matplotlib, Seaborn)
+- Machine Learning, Deep Learning basics
+- SQL, Git, Jupyter Notebooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Fraud Detection Custom](https://github.com/vemankumar/fraud-detection-custom) - A project on fraud detection using ML.
+
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/veman-kumar-b0aa7b280/]
+- Email: vemankumar66@gmail.com
+
+
+*“Learning by doing, growing every day.”*
