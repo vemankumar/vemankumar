@@ -12,7 +12,7 @@ I am a B.Tech Data Science student passionate about machine learning, data analy
 - [Fraud Detection Custom](https://github.com/vemankumar/fraud-detection-custom) - A project on fraud detection using ML.
 
 ## Contact
-- LinkedIn: [https://www.linkedin.com/in/veman-kumar-b0aa7b280/]
+- LinkedIn: [https://www.linkedin.com/in/veman-kumar-uppula-b0aa7b280]
 - Email: vemankumar66@gmail.com
 
 
