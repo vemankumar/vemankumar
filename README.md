@@ -1,6 +1,6 @@
 # Hi, I'm Veman Kumar Uppula 👋
 
-🎓 B.Tech CSE (Data Science) student at Mahatma Gandhi Institute of Technology (MGIT), Hyderabad.  
+🎓 B.Tech in CSE (Data Science) graduated from  Mahatma Gandhi Institute of Technology (MGIT), Hyderabad.  
 🧠 Passionate about solving real-world problems through data science, machine learning, and data-driven decision-making.  
 🔍 Always learning, building, and growing — one project at a time.
 
@@ -8,7 +8,7 @@
 
 ## 💻 Skills
 
-- **Languages:** Python, C, Java, SQL, R
+- **Languages:** Python, SQL
 - **Tools & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks, Power BI, Node.js, ETL (Kafka)
 - **Tech Focus:** Data Analysis, Data Visualization, Machine Learning (Basics), Critical Thinking, Problem Solving
 
